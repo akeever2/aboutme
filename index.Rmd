@@ -1,6 +1,6 @@
 ---
 title: "Allison Keever"
-image: "frank.jpg"
+image: "trapping.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
