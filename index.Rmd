@@ -9,32 +9,37 @@ links:
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:akeever@tntech.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Allison Keever specializes in quantitative ecology and decision analysis and their applications to wildlife populations. Her research focuses on estimation and modeling of population dynamics.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**The University of Montana** | Missoula, MT
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Ph.D. in Wildlife Biology | 2020  
 
-**The University of California, Berkeley** | Berkeley, CA
+**Auburn University** | Auburn, AL
 
-B.S. in Computer Science | September 2005 - May 2009
+M.S. in Wildlife Sciences | 2014  
+
+**The University of Illinois** | Champaign-Urbana, IL
+
+B.S. in Natural Resources and Environmental Sciences | 2011
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Tennessee Tech University** | Postdoctoral Research Associate | 2020 - Present  
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**The University of Montana** | Graduate Research Assistant | 2015 - 2020  
+
+**Auburn University** | Research Associate | 2014 - 2015  
+
+**Auburn University** | Graduate Research Assistant | 2012 - 2014
+
+
